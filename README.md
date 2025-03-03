@@ -2,15 +2,15 @@
 
 ###
 
-<p align="center">A passionate software engineer and problem-solver.</p>
+<h4 align="center">A passionate software engineer and problem-solver.</h4>
 
 ###
 
-<p align="center">My passion for coding started in middle school during a Robotics class, where I quickly realized I enjoyed programming far more than working with hardware. That curiosity led me down the path of Computer Science, and now, I'm a senior at **MSU Denver** (graduating May 2025), specializing in **full-stack development**, **web technologies**, and **machine learning**. I thrive on tackling complex challenges and building impactful applications that enhance user experiences.</p>
+<h4 align="center">My passion for coding started in middle school during a Robotics class, where I quickly realized I enjoyed programming far more than working with hardware. That curiosity led me down the path of Computer Science, and now, I'm a senior at **MSU Denver** (graduating May 2025), specializing in **full-stack development**, **web technologies**, and **machine learning**. I thrive on tackling complex challenges and building impactful applications that enhance user experiences.</h4>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
@@ -51,6 +51,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
+###
+
+<h2 align="left">Contact me:</h2>
 
 ###
 
