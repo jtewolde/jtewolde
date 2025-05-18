@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="center">A passionate software engineer and problem-solver.</h4>
+<h2 align="center">A passionate software engineer and problem-solver.</h2>
 
 ###
 
-<h4 align="center">My passion for coding started in middle school during a Robotics class, where I quickly realized I enjoyed programming far more than working with hardware. That curiosity led me down the path of Computer Science, and now, I'm a senior at **MSU Denver** (graduating May 2025), specializing in **full-stack development**, **web technologies**, and **machine learning**. I thrive on tackling complex challenges and building impactful applications that enhance user experiences.</h4>
+<h4 align="center">My passion for coding started in middle school during a Robotics class, where I quickly realized I enjoyed programming far more than working with hardware. That curiosity led me down the path of Computer Science, and now, I'm a recent Computer Science graduate with Cum Laude from MSU Denver, specializing in **full-stack development**, **web technologies**, and **machine learning**. I thrive on tackling complex challenges and building impactful applications that enhance user experiences</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🚀 I've built/contributed to projects like Roadrunner Resource Hub, Timelycuts, and an NBA Statistics Web App!<br>📚 I'm currently learning new technologies like Angular and Next.js!<br>📫React out to me at jotewolde20@gmail.com!<br>🛜Check out and connect with me on LinkedIn!</p>
+<p align="left">🚀 I've built/contributed to projects like CheckPoint, Roadrunner Resource Hub, Timelycuts, and an NBA Statistics Web App!<br>📚 I'm currently learning new technologies like Angular and Next.js!<br>📫React out to me at jotewolde20@gmail.com!<br>🛜Check out and connect with me on LinkedIn!</p>
 
 ###
 
@@ -23,19 +23,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -50,11 +54,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
 ###
 
-<h2 align="left">Contact me:</h2>
+<h2 align="left">Contact me on LinkedIn or Email!</h2>
 
 ###
 
