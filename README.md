@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">My passion for coding started in middle school during a Robotics class, where I quickly realized I enjoyed programming far more than working with hardware. That curiosity led me down the path of Computer Science, and now, I'm a recent Computer Science graduate with Cum Laude from MSU Denver, specializing in **full-stack development**, **web technologies**, and **machine learning**. I thrive on tackling complex challenges and building impactful applications that enhance user experiences</h4>
+<h4 align="center">My passion for coding started in middle school during a Robotics class, where I quickly realized I enjoyed programming far more than working with hardware. That curiosity led me down the path of Computer Science, and now, I'm a recent Computer Science graduate with Cum Laude from MSU Denver, specializing in **full-stack development**, **web technologies**, and **machine learning**. I thrive on tackling complex challenges and building impactful applications that enhance user experiences. Also, I am interested in IT and have been expanding those skills as well by working on home labs using systems like Active Directory!</h4>
 
 ###
 
